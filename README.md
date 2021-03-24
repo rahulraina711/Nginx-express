@@ -69,4 +69,5 @@ sudo service nginx restart
 ```
 
 ### You should now be able to visit your IP with no port (port 80) and see your app. Now let's add a domain
+In your browser type "localhost" and your express app should be visible.
 
