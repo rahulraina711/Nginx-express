@@ -3,12 +3,12 @@
 ## 1. Clone your project from Github
 There are a few ways to get your files on to the server, I would suggest using Git
 ```
-git clone thisrepository.git
+git clone https://github.com/rahulraina711/Nginx-express.git
 ```
 
 ### 2. Install dependencies and test app
 ```
-cd yourproject
+cd Nginx-express
 npm install
 node server.js
 # stop app
