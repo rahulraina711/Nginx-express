@@ -1,0 +1,23 @@
+{
+  "name": "nginx",
+  "version": "1.0.0",
+  "description": "This is just a practice repo, nothing special about it.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rahulraina711/Nginx-express.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rahulraina711/Nginx-express/issues"
+  },
+  "homepage": "https://github.com/rahulraina711/Nginx-express#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
