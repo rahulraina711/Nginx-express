@@ -32,7 +32,7 @@ pm2 startup ubuntu
 ```
 ### You should now be able to access your app using your IP and port. Now we want to setup a firewall blocking that port and setup NGINX as a reverse proxy so we can access it directly using port 80 (http)
 
-## 7. Setup ufw firewall
+## 4. Setup ufw firewall
 ```
 sudo ufw enable
 sudo ufw status
@@ -41,7 +41,7 @@ sudo ufw allow http (allows Port 80)
 sudo ufw allow https (allows Port 443)
 ```
 
-## 8. Install NGINX and configure
+## 5. Install NGINX and configure
 ```
 sudo apt install nginx
 
